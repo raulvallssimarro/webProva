@@ -1,0 +1,88 @@
+/*Estils web*/
+
+body{
+	background-color:#DDD;
+}
+figure{
+	width:60%;
+	background-color:#FF8;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+}
+
+#contenidor{
+	background-color:#FFF;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	}
+#cap{
+	width:80%;
+	background-color:#88F;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	margin-bottom:5px;
+	}
+#principal{
+	width:80%;
+	background-color:#88F;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	margin-bottom:5px;
+	}
+#peu{
+	width:80%;
+	background-color:#88F;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	}
+#cap h1{
+	width:70%;
+	background-color:#F88;
+	color:white;
+	font-family:arial;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5px;
+	border:solid black 1px;
+}
+#principal h2{
+	width:60%;
+	background-color:#8F8;
+	color:red;
+	font-family:arial;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5px;
+	border:solid black 1px;
+}
+#peu h3{
+	width:50%;
+	background-color:#55F;
+	color:white;
+	font-family:arial;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5px;
+	border:solid black 1px;
+}
+.imatge{
+	width:200px;
+}
